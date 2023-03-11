@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/portofolio-aldo/precache-manifest.61953a0adc511300ccbcc9490c7dcf2c.js"
+  "/portofolio-aldo/home/precache-manifest.dbaad58f3f87a86afa6df65c41f9f824.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/portofolio-aldo/index.html", {
+workbox.routing.registerNavigationRoute("/portofolio-aldo/home/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
