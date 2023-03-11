@@ -1,7 +1,6 @@
 {
   "name": "random",
   "version": "0.1.0",
-  "homepage": "https://aldoprogrammer.github.io/portofolio-aldo",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
@@ -22,8 +21,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
