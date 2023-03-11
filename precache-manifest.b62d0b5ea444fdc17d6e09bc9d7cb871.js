@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "42d329154004f9e43e12",
+    "revision": "d27ca8af823a11c03de6",
     "url": "/portofolio-aldo/static/css/main.540765a3.chunk.css"
   },
   {
-    "revision": "42d329154004f9e43e12",
-    "url": "/portofolio-aldo/static/js/main.42d32915.chunk.js"
+    "revision": "d27ca8af823a11c03de6",
+    "url": "/portofolio-aldo/static/js/main.d27ca8af.chunk.js"
   },
   {
     "revision": "4c9aa3f9f967913d2422",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/portofolio-aldo/static/media/6.f452ac97.jpg"
   },
   {
-    "revision": "f071550a0596ae77abce8c4cfdc9fd67",
+    "revision": "94cef8cb6cafb02642b2d793b11953cc",
     "url": "/portofolio-aldo/index.html"
   }
 ];

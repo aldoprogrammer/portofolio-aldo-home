@@ -1,7 +1,7 @@
 {
   "main.css": "/portofolio-aldo/static/css/main.540765a3.chunk.css",
-  "main.js": "/portofolio-aldo/static/js/main.42d32915.chunk.js",
-  "main.js.map": "/portofolio-aldo/static/js/main.42d32915.chunk.js.map",
+  "main.js": "/portofolio-aldo/static/js/main.d27ca8af.chunk.js",
+  "main.js.map": "/portofolio-aldo/static/js/main.d27ca8af.chunk.js.map",
   "static/js/1.4c9aa3f9.chunk.js": "/portofolio-aldo/static/js/1.4c9aa3f9.chunk.js",
   "static/js/1.4c9aa3f9.chunk.js.map": "/portofolio-aldo/static/js/1.4c9aa3f9.chunk.js.map",
   "static/css/2.0128d00f.chunk.css": "/portofolio-aldo/static/css/2.0128d00f.chunk.css",
@@ -18,6 +18,6 @@
   "static/css/main.540765a3.chunk.css.map": "/portofolio-aldo/static/css/main.540765a3.chunk.css.map",
   "static/css/2.0128d00f.chunk.css.map": "/portofolio-aldo/static/css/2.0128d00f.chunk.css.map",
   "index.html": "/portofolio-aldo/index.html",
-  "precache-manifest.faea701ad074ffb69ec177948598eccc.js": "/portofolio-aldo/precache-manifest.faea701ad074ffb69ec177948598eccc.js",
+  "precache-manifest.b62d0b5ea444fdc17d6e09bc9d7cb871.js": "/portofolio-aldo/precache-manifest.b62d0b5ea444fdc17d6e09bc9d7cb871.js",
   "service-worker.js": "/portofolio-aldo/service-worker.js"
 }
