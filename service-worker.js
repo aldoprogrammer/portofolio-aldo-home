@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/portofolio-aldo/precache-manifest.a7bf6b46a1f8f4d273fb928055295459.js"
+  "/portofolio-aldo/precache-manifest.faea701ad074ffb69ec177948598eccc.js"
 );
 
 workbox.clientsClaim();
